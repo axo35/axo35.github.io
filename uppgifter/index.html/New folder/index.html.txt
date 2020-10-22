@@ -1,0 +1,44 @@
+Min första webbsida
+
+
+
+
+
+1. <html>
+</html>
+
+2. <html>
+      <head>
+
+     </head>
+    </html>
+
+3. <html>
+     <head>
+        <tittle>webbsidans</title>
+     </head>
+   <html>
+
+4.<html>
+    <head>
+      <tittle>webbsidans</title>
+    </head>
+      
+   <body>
+   
+   </body>
+  </html>
+   
+ 
+
+5.<!doctype html>
+  <html>
+    <head>
+       <title>webbsidans title</title>
+    <head>>
+    
+    <body>
+
+    </body>
+  </html>
+
